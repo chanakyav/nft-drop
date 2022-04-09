@@ -1,0 +1,19 @@
+{
+  "name": "headphones-2",
+  "symbol": "chanakyav",
+  "image": "2.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "2.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "GqfTzXKdtQe8bwkaUKd3tkUvdP4qK6jUvNij3JH88v1Z",
+        "share": 100
+      }
+    ]
+  }
+}

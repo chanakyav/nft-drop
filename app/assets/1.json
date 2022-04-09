@@ -1,6 +1,8 @@
 {
-  "name": "headphones-1",
-  "symbol": "chanakyav",
+  "name": "headphone #0002",
+  "symbol": "CV",
+  "description": "Collection of 3 headphones on the blockchain. This is the headphone 2/3.",
+  "seller_fee_basis_points": 500,
   "image": "1.png",
   "properties": {
     "files": [

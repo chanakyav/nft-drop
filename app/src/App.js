@@ -51,7 +51,7 @@ const App = () => {
       const response = await solana.connect();
       const publicKeyString = response.publicKey.toString();
       console.log('Connected with Public Key:', publicKeyString);
-      setWalletAddress(publicKeyString)
+      setWalletAddress(publicKeyString);
     }
   };
 
